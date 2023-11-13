@@ -47,7 +47,7 @@
 </div>
 
 <div style="display: inline-block;">
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vindiarputra&theme=tokyonight&exclude=javascript,golang,java" alt="vindiarputra" width="400" height="190" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vindiarputra&theme=tokyonight" alt="vindiarputra" width="400" height="190" />
 </div>
 
 
