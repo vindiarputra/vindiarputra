@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vindiar Johan Diputra</h1>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" fill="none">
+    <rect width="800" height="200" fill="black"/>
+    <text x="50%" y="50%" fill="#f0f0f0" font-size="48" text-anchor="middle" alignment-baseline="middle" font-family="Verdana">
+        <animate attributeName="text" dur="10s" repeatCount="indefinite">
+            <set begin="0s" to="Vindiar Johan Diputra"/>
+            <set begin="5s" to="Selamat datang di GitHub saya!"/>
+        </animate>
+    </text>
+</svg>
+
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Golang,Javascript,React**
