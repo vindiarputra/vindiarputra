@@ -8,10 +8,24 @@
 - 📫 How to reach me **vindiari5c@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vindiar-johan-diputra-801522197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vindiar-johan-diputra-801522197/" height="30" width="40" /></a>
-<a href="https://instagram.com/vindiarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vindiarrr" height="30" width="40" /></a>
-</p>
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <p>Linkedin</p>
+          <a href="https://linkedin.com/in/vindiar-johan-diputra-801522197/" target="blank"
+            ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vindiar-johan-diputra-801522197/" height="30" width="40"
+          /></a>
+        </td>
+        <td align="center" width="96">
+          <p>Instagram</p>
+          <a href="https://instagram.com/vindiarrr" target="blank"
+            ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vindiarrr" height="30" width="40"
+          /></a>
+        </td>
+      </tr>
+    </table>
+
+    
 <h3 align="left">Languages and Tools:</h3>
     <table align="center">
       <tr>
@@ -86,13 +100,13 @@
         <td align="center" width="96">
           <p>Next.js</p>
           <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+            <img src="https://hackernoon.imgix.net/images/7FHeR383huUAovH1GLgM3KFQYh12-ugc3zlc.jpeg" alt="nextjs" width="80" height="40" />
           </a>
         </td>
         <td align="center" width="96">
           <p>Node.js</p>
           <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+            <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" alt="nodejs" width="80" height="40" />
           </a>
         </td>
         <td align="center" width="96">
