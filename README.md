@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/GCdGNtL/modern-green-coming-soon-Banner-Landscape.gif)](https://github.com/vindiarputra)
+[![MasterHead](https://i.ibb.co/kXb6Kn2/ezgif-com-crop.gif)](https://github.com/vindiarputra)
 
 <h1 align="center">Hi there, my name is Vindiar 👋</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
