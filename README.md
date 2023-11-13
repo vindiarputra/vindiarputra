@@ -47,7 +47,7 @@
 </div>
 
 <div style="display: inline-block;">
-  <img align="left" src="[https://github-readme-stats.vercel.app/api?username=vindiarputra&show_icons=true&locale=en&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="vindiarputra" width="400" height="190" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vindiarputra&theme=tokyonight&exclude=javascript,golang,java" alt="vindiarputra" width="400" height="190" />
 </div>
 
 
