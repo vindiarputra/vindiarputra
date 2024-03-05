@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, my name is Vindiar 👋</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Golang,Javascript,React**
+- 🌱 I’m currently learning **NextJS,Firebase,Prisma**
 
 - 📫 How to reach me **vindiari5c@gmail.com**
 
