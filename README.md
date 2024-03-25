@@ -94,7 +94,7 @@
         <td align="center" width="96">
           <p>NestJS</p>
           <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           </a>
         </td>
         <td align="center" width="96">
