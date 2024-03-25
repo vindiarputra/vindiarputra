@@ -92,12 +92,6 @@
     </td>
     <td align="center" width="96">
       <p>Node.js</p>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" alt="nodejs" width="80" height="40" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <p>Oracle</p>
       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
       </a>
