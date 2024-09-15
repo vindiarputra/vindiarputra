@@ -127,17 +127,14 @@
   </tr>
 </table>
 
-<div style="display: inline-block;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vindiarputra&show_icons=true&locale=en&theme=tokyonight" alt="vindiarputra" width="400" height="190" />
-</div>
-
-<div style="display: inline-block;">
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vindiarputra&theme=tokyonight" alt="vindiarputra" width="400" height="190" />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vindiarputra&show_icons=true&locale=en&theme=tokyonight" alt="vindiarputra" width="400" height="190" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vindiarputra&theme=tokyonight" alt="vindiarputra" width="400" height="190" />
 </div>
 
 <br><br><br><br>
 
 <div align="center" >
-  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
+  <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="top">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=t1u0eecrf9fv3ggctrzmy9sj5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Playing" />
 </div>
