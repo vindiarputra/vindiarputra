@@ -73,7 +73,8 @@
     <td align="center" width="96">
       <p>NestJS</p>
        <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <i class="devicon-nestjs-plain colored" style="font-size: 48px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+          
   </a>
     </td>
     <td align="center" width="96">
