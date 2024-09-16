@@ -72,9 +72,9 @@
     </td>
     <td align="center" width="96">
       <p>NestJS</p>
-      <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-      </a>
+       <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <i class="devicon-nestjs-plain colored" style="font-size: 48px;"></i>
+  </a>
     </td>
     <td align="center" width="96">
       <p>MongoDB</p>
