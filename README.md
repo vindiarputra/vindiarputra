@@ -1,4 +1,4 @@
-[![MasterHead](https://pasteboard.co/JezFEgDcZF9a.gif)](https://github.com/vindiarputra)
+[![MasterHead](https://www.imghippo.com/i/eFfAa1726463362.gif)](https://github.com/vindiarputra)
 
 <h1 align="center">Hi there, my name is Vindiar 👋</h1>
 <h3 align="center">A passionate Software Developer from Indonesia</h3>
